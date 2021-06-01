@@ -4,9 +4,10 @@
 <h2>RESULTS:</h2>
 <ol>
     <li><h3>Manhattan Loves Bikes!</h3></li>
-    <p>All of the frequently used Starting and Ending Stations seem to be in Manhattan. Owing to lesser availability and affordability of parking space in Manhattan, it is safe to assume that Manhattanites like taking advantage of the New York City's rental bike service more than other New Yorkers.
+    <p>All of the frequently used Starting and Ending Stations seem to be popping out from Manhattan Borough. Owing to lesser availability and affordability of parking space in Manhattan, it is safe to assume that Manhattanites like taking advantage of the New York City's rental bike service much more than the fellow New Yorkers.
     <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Top%20Stations.png'></img>
     <li><h3>Short Rides are popular!</h3></li>
+    <p> The most common trip duration is 5 minutes. It says a lot about the purpose of these rides which could be a quick commute to school or work, meaning the riders reside at a distance from school/work that could be too long to walk by but it could be perfect for a bike ride without tiring themselves out during transit.
     <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Trip%20Duration.png'></img>
     <li><h3>Rush Hours and Off-Peak Hours</h3></li>
     <p>Rush hours recorded on weekdays at 8AM and 5-6PM with significant contribution by male riders. Wednesday evenings see a dip in trip count that doubles up on Thursday evenings.</p>
