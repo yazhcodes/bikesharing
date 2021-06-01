@@ -1,8 +1,7 @@
-<h1>OVERVIEW:</h1>
+<h2>OVERVIEW:</h2>
+<p>The purpose of the analysis is well defined.</p>
 
-The purpose of the analysis is well defined.
-
-**RESULTS:**
+<h2>RESULTS:</h2>
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
@@ -18,6 +17,6 @@ There is a description of the results for each visualization (7 pt)
     <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Bike%20Utilization.png'></img>
 
 
-**SUMMARY:**
+<h2>SUMMARY:</h2>
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
