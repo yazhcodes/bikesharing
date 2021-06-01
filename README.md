@@ -4,6 +4,7 @@
 <h2>RESULTS:</h2>
 <ol>
     <li><h3>Manhattan Loves Bikes!</h3></li>
+    <p>All of the frequently used Starting and Ending Stations seem to be in Manhattan. Owing to lesser availability and affordability of parking space in Manhattan, it is safe to assume that Manhattanites like taking advantage of the New York City's rental bike service more than other New Yorkers.
     <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Top%20Stations.png'></img>
     <li><h3>Short Rides are popular!</h3></li>
     <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Trip%20Duration.png'></img>
