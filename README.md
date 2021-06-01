@@ -2,6 +2,7 @@
 <p>The purpose of this analysis is to figure out how the bike sharing business actually works in New York City. Using this knowledge, we are to make a proposal of how a similar program might run in Des Moine, Iowa.</p>
 
 <h2>RESULTS:</h2>
+Here's the [Tableau Story Board](https://public.tableau.com/app/profile/yazhini.gopal/viz/NYCBikeChallenge/StoryBoard) that depicts the below findings.
 <ol>
     <li>
         <h3>Manhattan Loves Bikes!</h3>
@@ -50,3 +51,5 @@
     <li>A <strong>Des Moines map layer</strong> with prominent industrial, commercial or educational spaces and major residential intersections can be used to determine suitable location of bike stations.</li>
     <li>Geographical data about <strong>recreational spaces</strong> can be gathered and special weekend bike stations could be set up near these locations. The bikes from industrial spaces could be <strong>rotated</strong> with these stations during weekends and weekdays.</li>
 </ul>
+
+
