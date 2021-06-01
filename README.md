@@ -9,8 +9,8 @@
     <li><h3>Short Rides are popular!</h3></li>
     <p> The most common trip duration is 5 minutes. It says a lot about the purpose of these rides which could be a quick commute to school or work, meaning the riders reside at a distance from school/work that could be too long to walk by but it could be perfect for a bike ride without tiring themselves out during transit.
     <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Trip%20Duration.png'></img>
-    <li><h3>Rush Hours and Off-Peak Hours</h3></li>
-    <p>Rush hours recorded on weekdays at 8AM and 5-6PM with significant contribution by male riders. Wednesday evenings see a dip in trip count that doubles up on Thursday evenings.</p>
+    <li><h3>Peak and Off-Peak Hours</h3></li>
+    <p>Rush hours have been recorded on weekdays at 8AM and 5-6PM. Wednesday evenings are an exception to this pattern and are realtively less busy with a dip in trip count. But it doubles up on Thursday evenings proving to be the busiest time of the week.</p>
     <div align='center'>
         <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Daily%20Trips%20by%20Hour.png' width=500 height=500></img>
     </div>
