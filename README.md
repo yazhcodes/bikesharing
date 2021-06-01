@@ -2,10 +2,8 @@
 <p>The purpose of the analysis is well defined.</p>
 
 <h2>RESULTS:</h2>
-
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
-**1. Manhattan Loves Bikes!**
+<ul>
+    <li>**1. Manhattan Loves Bikes!**</li>
     <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Top%20Stations.png'></img>
 **2. Short Rides are popular!**
     <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Trip%20Duration.png'></img>
