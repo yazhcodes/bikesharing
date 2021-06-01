@@ -1,5 +1,5 @@
 <h2>OVERVIEW:</h2>
-<p>The purpose of this analysis is to figure out how the bike sharing business actually works in NYC. Using this knowledge, we are to make a proposal of how a similar program might run in Des Moine, Iowa.</p>
+<p>The purpose of this analysis is to figure out how the bike sharing business actually works in New York City. Using this knowledge, we are to make a proposal of how a similar program might run in Des Moine, Iowa.</p>
 
 <h2>RESULTS:</h2>
 <ol>
