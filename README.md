@@ -1,5 +1,5 @@
 <h2>OVERVIEW:</h2>
-<p>The purpose of the analysis is well defined.</p>
+<p>The purpose of this analysis is to figure out how the bike sharing business actually works in NYC. Using this knowledge, we are to make a proposal of how a similar program might run in Des Moine, Iowa.</p>
 
 <h2>RESULTS:</h2>
 <ol>
@@ -37,7 +37,7 @@
 </ol>
 
 <h2>SUMMARY:</h2>
-<h3>Suggestions for Des Moines Bike Sharing Program</h3>
+<h3>Suggestions for Des Moines Bike Sharing Program:</h3>
 <p>After analyzing the NYC Bike Sharing Data in depth, here are the conclusions/suggestions to kickstart a similar program in Des Moines, Iowa.</p>
 <ul>
     <li>We have witnessed the success of NYC-BS in Manhattan out of all the other boroughs, so it is safe to launch the Bike Sharing program at <strong>Downtown Des Moines</strong> before expanding to the rest of the Des Moines city.</li>
@@ -45,7 +45,7 @@
     <li>8AM and 5-6PM on weekdays are the <strong>peak hours</strong> to expect so enough bikes have to be stocked at stations before this time. Any <strong>maintainence activity</strong> can be scheduled during off-peak hours.</li>
     <li>We know we will be attracting more <strong>male riders</strong> than females. While it is essential to focus on the potentially easy customers in the beginning, it is also crucial to offer subsidized services to attract more <strong>female riders</strong>.</li>
 </ul>
-<h3>Additional Analysis & Visualizations</h3>
+<h3>Additional Analysis & Visualizations:</h3>
 <ul>
     <li>A <strong>Des Moines map layer</strong> with prominent industrial, commercial or educational spaces and major residential intersections can be used to determine suitable location of bike stations.</li>
     <li>Geographical data about <strong>recreational spaces</strong> can be gathered and special weekend bike stations could be set up near these locations. The bikes from industrial spaces could be <strong>rotated</strong> with these stations during weekends and weekdays.</li>
