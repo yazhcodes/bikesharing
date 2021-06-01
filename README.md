@@ -11,7 +11,9 @@
     <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Trip%20Duration.png'></img>
     <li><h3>Rush Hours and Off-Peak Hours</h3></li>
     <p>Rush hours recorded on weekdays at 8AM and 5-6PM with significant contribution by male riders. Wednesday evenings see a dip in trip count that doubles up on Thursday evenings.</p>
-    <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Daily%20Trips%20by%20Hour.png'></img>
+    <div alig='center'>
+        <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Daily%20Trips%20by%20Hour.png' width=500 height=500></img>
+    </div>
     <li><h3>Male Subscribers lead all the trip charts making the most number of trips on Thursdays.</h3></li>
     <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Daily%20Trips%20by%20User.png'></img>
     <li><h3>Time to Show the Bikes some Love</h3></li>
