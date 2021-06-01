@@ -10,6 +10,8 @@ There is a description of the results for each visualization (7 pt)
 <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Trip%20Duration.png'></img>
 <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Daily%20Trips%20by%20Hour.png'></img>
 <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Daily%20Trips%20by%20User.png'></img>
+<img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Bike%20Utilization.png'></img>
+
 
 SUMMARY:
 
