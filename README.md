@@ -1,12 +1,12 @@
 <h2>OVERVIEW:</h2>
-<p>The purpose of this analysis is to figure out how the bike sharing business actually works in New York City. Using this knowledge, we are to make a proposal of how a similar program might run in Des Moine, Iowa.</p>
+<p>The purpose of this analysis is to figure out how the bike sharing business actually works in New York City. Using this knowledge, I will be making a proposal of how a similar program might run in Des Moine, Iowa.</p>
 
 <h2>RESULTS:</h2>
 Here's the <a href='https://public.tableau.com/app/profile/yazhini.gopal/viz/NYCBikeChallenge/StoryBoard'>Tableau Story Board</a> that depicts the below findings.
 <ol>
     <li>
         <h3>Manhattan Loves Bikes!</h3>
-        <p>All of the frequently used Starting and Ending Stations seem to be popping out from Manhattan Borough. Owing to lesser availability and affordability of parking space in Manhattan, it is safe to assume that Manhattanites like taking advantage of the New York City's rental bike service much more than the fellow New Yorkers.
+        <p>All of the frequently used Starting and Ending Stations seem to be gathered around Manhattan Borough. Owing to lesser availability and affordability of parking space in Manhattan, it is safe to assume that Manhattanites like taking advantage of the New York City's rental bike service much more than their neighbors - the New Yorkers.
         <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Top%20Stations.png'></img>
     </li>
     <li>
@@ -16,7 +16,7 @@ Here's the <a href='https://public.tableau.com/app/profile/yazhini.gopal/viz/NYC
     </li>
     <li>
         <h3>Peak and Off-Peak Hours</h3>
-        <p>Rush hours have been recorded on weekdays at 8AM and 5-6PM. Wednesday evenings are an exception to this pattern and are realtively less busy with a dip in trip count. But it doubles up on Thursday evenings proving to be the busiest time of the week.</p>
+        <p>Rush hours have been recorded on weekdays at 8AM and 5-6PM. Wednesday evenings are an exception to this pattern and are realtively less busy with a drop in trip count. But it doubles up on Thursday evenings proving to be the busiest time of the week.</p>
         <div align='center'>
             <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Daily%20Trips%20by%20Hour.png' width=500 height=500></img>
         </div>
@@ -30,7 +30,7 @@ Here's the <a href='https://public.tableau.com/app/profile/yazhini.gopal/viz/NYC
     </li>
     <li>
         <h3>Time to Show the Bikes some Love</h3>
-        <p>Despite the frequent rides across New York, some bikes are being over utiilized than others, which has been picked up by this chart. It's evident that these bikes are crying out to get some tuning done as soon as possible without hurting the riders' routines.</p>
+        <p>Despite the frequent rides across New York, a select few bikes are found to be over utiilized than the others, and fortunately this trend has been picked up by the below chart. It's evident that these bikes are crying out to get some tuning done as soon as possible without hurting the riders' routines.</p>
         <div align='center'>
             <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Bike%20Utilization.png' width=600 height=500></img>
         </div>
@@ -44,10 +44,10 @@ Here's the <a href='https://public.tableau.com/app/profile/yazhini.gopal/viz/NYC
     <li>We have witnessed the success of NYC-BS in Manhattan out of all the other boroughs, so it is safe to launch the Bike Sharing program at <strong>Downtown Des Moines</strong> before expanding to the rest of the Des Moines city.</li>
     <li>It is important to <strong>strategically place bike stations</strong> near major commercial/industrial spaces and also near major intersections leading to residential spaces. This allows the riders to keep their trips short (not tiring) during their daily commute and will keep them coming back on a routine basis.</li>
     <li>8AM and 5-6PM on weekdays are the <strong>peak hours</strong> to expect so enough bikes have to be stocked at stations before this time. Any <strong>maintainence activity</strong> can be scheduled during off-peak hours.</li>
-    <li>We know we will be attracting more <strong>male riders</strong> than females. While it is essential to focus on the potentially easy customers in the beginning, it is also crucial to offer subsidized services to attract more <strong>female riders</strong>.</li>
+    <li>We know we will be attracting more <strong>male riders</strong> than females. While it is essential to focus on the easy customers in the beginning, it is also crucial to offer subsidized services to attract more <strong>female riders</strong>.</li>
 </ul>
 <h3>Additional Analysis & Visualizations:</h3>
 <ul>
     <li>A <strong>Des Moines map layer</strong> with prominent industrial, commercial or educational spaces and major residential intersections can be used to determine suitable location of bike stations.</li>
-    <li>Geographical data about <strong>recreational spaces</strong> can be gathered and special weekend bike stations could be set up near these locations. The bikes from industrial spaces could be <strong>rotated</strong> with these stations during weekends and weekdays.</li>
+    <li>Geographical data about <strong>recreational spaces</strong> can be gathered and special weekend bike stations could be set up near these locations. The bikes from industrial spaces could be <strong>swapped</strong> between these pop-up stations during weekends and weekdays.</li>
 </ul>
