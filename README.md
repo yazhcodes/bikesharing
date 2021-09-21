@@ -30,7 +30,7 @@ Here's the <a href='https://public.tableau.com/app/profile/yazhini.gopal/viz/NYC
     </li>
     <li>
         <h3>Time to Show the Bikes some Love</h3>
-        <p>Despite the frequent rides across New York, some bikes are being over utiilized than others, which have been picked up by this chart. It's evident that these bikes are crying out to get some tuning done as soon as possible without hurting the riders' routines.</p>
+        <p>Despite the frequent rides across New York, some bikes are being over utiilized than others, which has been picked up by this chart. It's evident that these bikes are crying out to get some tuning done as soon as possible without hurting the riders' routines.</p>
         <div align='center'>
             <img src='https://github.com/yazhcodes/bikesharing/blob/main/Resources/Images/Bike%20Utilization.png' width=600 height=500></img>
         </div>
